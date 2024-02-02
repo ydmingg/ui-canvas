@@ -1,6 +1,6 @@
 {
 	"name": "ui-canvas",
-	"version": "2.1.257",
+	"version": "1.2.21",
 	"description": "",
 	"main": "index.js",
 	"type": "module",
